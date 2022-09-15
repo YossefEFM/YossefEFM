@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="800"  src="https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif">
+
 ### <h1 align="center">Hi 👋👋👋, I'm Yossef</h1>
 <h3 align="center">A Software Engineer from Egypt</h3>
 
@@ -10,6 +12,7 @@
 - My Portfolio is here 📄 [https://yossefessam.my.canva.site/](https://yossefessam.my.canva.site/)
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=UQJfe%2fYIXZvk0g&pid=ImgRaw&r=0">
 <p align="left">
 <a href="https://www.linkedin.com/in/yossef-essam-416112217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yossef essam" height="40" width="50" /></a>
 <a href="https://www.facebook.com/YossefEFM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yossef essam meky" height="40" width="50" /></a>
