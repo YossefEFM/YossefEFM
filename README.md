@@ -23,6 +23,9 @@
   <a href="https://www.facebook.com/YossefEFM">
   <img src="https://th.bing.com/th/id/R.7f689981b7050a848293ef0344f30d33?rik=Ooi2n6Vh4wBGOQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-E9cQt2nvyTc%2fURusPT5VqnI%2fAAAAAAAAABw%2fwU8Q0YrG37M%2fs1600%2ffacebook%2blogo%2b3.png&ehk=%2bfW27pizyZApmGoIvKOHuCku5JHSDG52uNTA6WpkGbM%3d&risl=&pid=ImgRaw&r=0" width = "80" hieght= "70" alt="Facebook Badge"/>
         </a>
+     <a href="https://api.whatsapp.com/send?phone=201068105975">
+  <img src="https://thefuturevirtualassistant.com/wp-content/uploads/2021/08/whatsapp-bubble.gif" height="70" width="80" alt="Whatsapp Badge"/>
+    </a>
 </div>
 
 
